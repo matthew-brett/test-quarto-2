@@ -1,2 +1,6 @@
 
-This is the title: {{< meta title >}}.
+```{r}
+kableExtra::kable(cars,
+            caption = 'Caption
+            {#tbl-veh-numbers}')
+```
