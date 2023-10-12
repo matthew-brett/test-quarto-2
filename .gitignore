@@ -1,5 +1,4 @@
 *.html
 .quarto/
-
-/.quarto/
 _book/
+*_files/
