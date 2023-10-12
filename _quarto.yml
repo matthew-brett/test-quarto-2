@@ -7,7 +7,8 @@ book:
   date: "06/05/2023"
   chapters:
     - index.qmd
-    - intro.qmd
+    - intro.Rmd
 
 filters:
+  - quarto
   - a_filter
